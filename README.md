@@ -10,6 +10,9 @@ Maxwell.
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" width="60" height="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" width="60" height="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="60" height="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" width="60" height="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="60" height="60" />
 </p>
 
 <p align="left">
