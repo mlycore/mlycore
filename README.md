@@ -14,6 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" width="60" height="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="60" height="60" />
+  <img src="https://styles.redditmedia.com/t5_5a2b2c/styles/communityIcon_seic4taxaqx71.jpg?width=256&format=pjpg&s=01f5e4f1ce99f09e6ff0c40ea84822aedd48fc4c" width="60" height="60" />
 </p>
 
 <h4 align="left">Certs</h1>
@@ -31,7 +32,9 @@
 #### Open Source Contributions
 * [Apache ShardingSphere-on-Cloud](https://github.com/apache/shardingsphere-on-cloud)
 * [Database Mesh](https://github.com/database-mesh/pisanix)
-* [Istio-Handbook]()
+* [OpenSergo](https://github.com/opensergo/opensergo-control-plane)
+* [Istio-Handbook](https://github.com/servicemesher/istio-handbook)
+* [Awesome-KubeCon](https://github.com/mlycore/awesome-kubecon)
 
 #### Presentations
 * 2023
