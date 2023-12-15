@@ -40,9 +40,9 @@
 * 2023
   * [稀土开发者大会2023·云原生实践·Apache ShardingSphere: 当 Database Plus 遇到云原生](https://juejin.cn/live/yyssj003)
 
-#### Contacts
+#### Contact
 * [X](https://twitter.com/maxwell9215)
-* [LinkedIn](https://www.linkedin.com/in/maxwell9215/)
+* [LinkedIn](https://www.linkedin.com/in/maxwell-miao-23382580)
 * [ReadCV](https://read.cv/maxwell92)
 
 
