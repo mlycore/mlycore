@@ -39,6 +39,9 @@
 #### Presentations
 * 2023
   * [稀土开发者大会2023·云原生实践·Apache ShardingSphere: 当 Database Plus 遇到云原生](https://juejin.cn/live/yyssj003)
+* 2022
+  * [DoK Community: Building a mesh for databases from scratch and why](https://www.youtube.com/watch?v=ezNh4f5G1Ho&t=2438s)
+  * [OpenInfra Days Asia: TGI Database Mesh, let's practice DBRE on Kubernetes and cloud](https://www.youtube.com/watch?v=AC45SbZG4Gk)
 
 #### Contact
 * [X](https://twitter.com/maxwell9215)
