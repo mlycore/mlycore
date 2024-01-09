@@ -42,6 +42,13 @@
 * 2022
   * [DoK Community: Building a mesh for databases from scratch and why](https://www.youtube.com/watch?v=ezNh4f5G1Ho&t=2438s)
   * [OpenInfra Days Asia: TGI Database Mesh, let's practice DBRE on Kubernetes and cloud](https://www.youtube.com/watch?v=AC45SbZG4Gk)
+* 2021
+  * [TiDB DevCon·How does Chaos Mesh make a more Scalable StarPay](https://www.bilibili.com/video/BV1XL411n7dy?spm_id_from=333.337.search-card.all.click)
+* 2020
+  * [IT 东方会·TLive 技术实战：从0到1搭建企业级云原生环境](https://appp4czbtxh8829.h5.xiaoeknow.com/v2/course/alive/l_5ebe5ae522404_NvOX2L1X?app_id=appp4czBtxh8829&entry=2&entry_type=2001&type=2)
+* 2018
+  * [软件自由日·西邮站: Open Free Share, 从学生到工程师](https://github.com/mlycore/speech/blob/master/sfd2018/OpenFreeShare%E4%BB%8E%E5%AD%A6%E7%94%9F%E5%88%B0%E5%B7%A5%E7%A8%8B%E5%B8%88.pptx)
+  * [易宝支付·容器时代校园行·西邮站：云原生与 Kubernetes](https://mp.weixin.qq.com/s/yILnlcj04gaRhsnVttgarQ)
 
 #### Contact
 * [X](https://twitter.com/maxwell9215)
