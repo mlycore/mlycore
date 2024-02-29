@@ -13,7 +13,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="60" height="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" width="60" height="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" width="60" height="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" width="60" height="60" />
   <img src="https://styles.redditmedia.com/t5_5a2b2c/styles/communityIcon_seic4taxaqx71.jpg?width=256&format=pjpg&s=01f5e4f1ce99f09e6ff0c40ea84822aedd48fc4c" width="60" height="60" />
 </p>
 
