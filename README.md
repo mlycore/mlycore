@@ -56,7 +56,7 @@
 
 #### Contact
 * [X](https://twitter.com/maxwell9215)
-* [LinkedIn](https://www.linkedin.com/in/maxwell-miao-23382580)
+* [LinkedIn](https://www.linkedin.com/in/liyao-miao-23382580/)
 * [ReadCV](https://read.cv/maxwell92)
 
 
